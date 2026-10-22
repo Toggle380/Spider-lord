@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="spiderlord"
+version="1.0.0"
+displayName="Spider Lord"
+description='''
+Стань владыкой (то есть владычицей) пауков: лазай по стенам, оставляй за собой паутину,
+командуй пауками. Побочный эффект: теперь тебя можно доить.
+'''
+
+[[dependencies.spiderlord]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.spiderlord]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

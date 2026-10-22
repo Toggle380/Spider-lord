@@ -1,0 +1,14 @@
+{
+  "effect.spiderlord.spider_lord": "Spider Lord",
+  "block.spiderlord.spider_silk": "Spider Silk",
+  "item.spiderlord.spider_heart": "Heart of the Spider Lord",
+  "item.spiderlord.spider_heart.tooltip1": "Right-click: become the Spider Lord(ess)",
+  "item.spiderlord.spider_heart.tooltip2": "Right-click as Lord: summon a spider swarm",
+  "item.spiderlord.spider_heart.tooltip3": "Shift + Right-click: return to human form",
+  "message.spiderlord.become": "You are now the §5Spider Queen§r! Yes, 'Queen'. Don't ask.",
+  "message.spiderlord.revert": "The spider magic fades. You are human again.",
+  "message.spiderlord.swarm": "The spider horde answers your call!",
+  "message.spiderlord.milk_wait": "Not ready yet. Give it a moment.",
+  "message.spiderlord.milked_milker": "You milked Spider Queen %s. That was... weird.",
+  "message.spiderlord.milked_lord": "%s milked you. Your spider pride is wounded."
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["WSW", "SFS", "WSW"],
+  "key": {
+    "W": { "item": "minecraft:cobweb" },
+    "S": { "item": "minecraft:spider_eye" },
+    "F": { "item": "minecraft:fermented_spider_eye" }
+  },
+  "result": { "item": "spiderlord:spider_heart" }
+}

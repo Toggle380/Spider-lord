@@ -1,0 +1,14 @@
+{
+  "effect.spiderlord.spider_lord": "Владыка пауков",
+  "block.spiderlord.spider_silk": "Паучий шёлк",
+  "item.spiderlord.spider_heart": "Сердце Владыки пауков",
+  "item.spiderlord.spider_heart.tooltip1": "ПКМ: стать Владыкой (Владычицей) пауков",
+  "item.spiderlord.spider_heart.tooltip2": "ПКМ владыкой: призвать паучий рой",
+  "item.spiderlord.spider_heart.tooltip3": "Shift + ПКМ: вернуть человеческий облик",
+  "message.spiderlord.become": "Вы стали §5Владычицей§r пауков! Да-да, именно «Владычицей». Не спрашивайте.",
+  "message.spiderlord.revert": "Паучья магия рассеялась. Вы снова обычный человек.",
+  "message.spiderlord.swarm": "Паучье воинство явилось на зов!",
+  "message.spiderlord.milk_wait": "Ещё не накопилось. Подождите немного.",
+  "message.spiderlord.milked_milker": "Вы подоили Владычицу %s. Это было… странно.",
+  "message.spiderlord.milked_lord": "%s вас подоил(а). Паучья гордость уязвлена."
+}
